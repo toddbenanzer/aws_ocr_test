@@ -1,0 +1,289 @@
+FORM 02
+ACCOUNT APPLICATION
+First Name
+N
+E I A L
+Middle Initial
+Last Name
+YY AA L C } N
+Birth Dale
+4- / 1 2 / 2 D
+Social Security Number
+(mm dd yyy)
+b 2 b 2 2 3 7 L 4t
+KINDLY REQUEST TO OPEN (CHECK ONLY ONE)
+Settlement Account
+Call Deposit Account
+In the Currency (Enter Currency Code)
+Card Account
+"ZETA Bank" Account
+Settlement Account
+Call Deposit Account
+2
+In the Currency (Enter Currency Code)
+Card Account
+"ZETA Bank" Account
+Settlement Account
+Call Deposit Account
+3
+In the Currency (Enter Currency Code)
+Card Account
+"ZETA Bank" Account
+Settlement Account
+Call Deposit Account
+4
+In the Currency (Enter Currency Code)
+Card Account
+"ZETA Bank" Account
+Document Date
+(mm dd yyyy)
+/ T 5 / L 0
+FOR BANK USE ONLY
+Security
+Approved
+Not Approved
+Ahmie
+AHh
+Approval Date
+O 7 / 5 S / 2001 O 0
+Refusal Code
+(Signature)
+(mm dd yyyy)
+Private Customer Service
+ACCOUNTS OPENED
+1
+Le 2 7 0
+O 0
+4
+3277
+8 004234 O 0 4
+2
+43527
+O O {
+4t
+3723
+0043705
+3
+4
+Date
+0 F / / 5 / 2 0
+nnemifee
+(mm dd yy)
+(Signature)
+2 5 2 9 1 4 1 II 6 7 7 0
+8
+O
+FORM
+02
+ACCOUNT
+APPLICATION
+First
+Name
+N
+E
+I
+A
+L
+Middle
+Initial
+Last
+Name
+YY
+AA
+L
+C
+}
+N
+Birth
+Dale
+4-
+/
+1
+2
+/
+2
+D
+Social
+Security
+Number
+(mm
+dd
+yyy)
+b
+2
+b
+2
+2
+3
+7
+L
+4t
+KINDLY
+REQUEST
+TO
+OPEN
+(CHECK
+ONLY
+ONE)
+Settlement
+Account
+Call
+Deposit
+Account
+In
+the
+Currency
+(Enter
+Currency
+Code)
+Card
+Account
+"ZETA
+Bank"
+Account
+Settlement
+Account
+Call
+Deposit
+Account
+2
+In
+the
+Currency
+(Enter
+Currency
+Code)
+Card
+Account
+"ZETA
+Bank"
+Account
+Settlement
+Account
+Call
+Deposit
+Account
+3
+In
+the
+Currency
+(Enter
+Currency
+Code)
+Card
+Account
+"ZETA
+Bank"
+Account
+Settlement
+Account
+Call
+Deposit
+Account
+4
+In
+the
+Currency
+(Enter
+Currency
+Code)
+Card
+Account
+"ZETA
+Bank"
+Account
+Document
+Date
+(mm
+dd
+yyyy)
+/
+T
+5
+/
+L
+0
+FOR
+BANK
+USE
+ONLY
+Security
+Approved
+Not
+Approved
+Ahmie
+AHh
+Approval
+Date
+O
+7
+/
+5
+S
+/
+2001
+O
+0
+Refusal
+Code
+(Signature)
+(mm
+dd
+yyyy)
+Private
+Customer
+Service
+ACCOUNTS
+OPENED
+1
+Le
+2
+7
+0
+O
+0
+4
+3277
+8
+004234
+O
+0
+4
+2
+43527
+O
+O
+{
+4t
+3723
+0043705
+3
+4
+Date
+0
+F
+/
+/
+5
+/
+2
+0
+nnemifee
+(mm
+dd
+yy)
+(Signature)
+2
+5
+2
+9
+1
+4
+1
+II
+6
+7
+7
+0
+8
+O

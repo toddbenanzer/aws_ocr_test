@@ -2,6 +2,7 @@ from docx import Document
 from docx.shared import Inches
 import random
 import lorem
+import textgen
 
 
 class DocGen(object):
@@ -9,10 +10,12 @@ class DocGen(object):
         self.doc = Document()
 
     def gen_heading(self):
-        return lorem.text()[:random.randint(8, 20)]
+        return textgen.generate_heading(length=10, base_test=None)
+        #return lorem.text()[:random.randint(8, 20)]
 
     def gen_paragraph(self):
-        return lorem.paragraph()
+        return textgen.generate_paragraph(length=600, base_test=None)
+        #return lorem.paragraph()
 
     def add_heading(self, text='', level=1):
         self.doc.add_heading(text, level=level)
@@ -34,13 +37,16 @@ class DocGen(object):
         self.doc.save(filename)
 
 
-doc = DocGen()
-num_sections = random.randint(4, 40)
-curr_level = 1
-for section in range(num_sections):
-    curr_level = random.choice([1, curr_level, curr_level + 1])
-    num_paragraphs = random.randint(1, 10)
-    doc.add_section(num_paragraphs, level=curr_level)
-    if random.random() > 0.90:
-        doc.add_page_break()
-doc.save(r'C:\developer\aws_ocr_test\created_docs\text.docx')
+def generate_random_document(filename, num_sections=random.randint(10, 40)):
+    doc = DocGen()
+    curr_level = 1
+    for section in range(num_sections):
+        curr_level = random.choice([1, curr_level, curr_level + 1])
+        num_paragraphs = random.randint(1, 10)
+        doc.add_section(num_paragraphs, level=curr_level)
+        if random.random() > 0.75:
+            doc.add_page_break()
+    doc.save(filename)
+
+
+generate_random_document(r'C:\developer\aws_ocr_test\created_docs\test_gpt2.docx')

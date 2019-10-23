@@ -1,0 +1,397 @@
+FORM 03
+BANKING CARD APPLICATION
+Customer's Name
+Basic Card
+Supplementary Card
+First Name
+H A L
+Middle Initial
+Last Name
+Y A N
+Birth Date
+(mm dd yyyy)
+O 4f / 3 / 2
+Social Security Number
+b 636223744 3 6 2 3
+Please Issue Banking Card for Me
+Yes
+No
+PLEASE ISSUE BANKING CARD FOR
+(IF NO)
+First Name
+K A
+Middle Initial
+Last Name
+y A L 1 t1
+Birth Date
+(mm dd yyyy)
+0 5 / O / 3 O
+Social Security Number
+334579016
+BANKING CARD TYPE (CHECK ONLY ONE)
+VISA Electron
+VISA Classic
+EurocardMasterCard Standard
+VISA Gold
+Cirrus Maestro
+EurocardMasterCard Gold
+NAME TO APPEAR ON THE BANKING CARD
+N H A L
+Y A L C 1 N
+The Customer/ the Holder agrees that any disputes with the Bank arising from or in connection with this application shall be
+governed the General Terms and Conditions the Service Procedure for Private Customers and the Price Schedule of the Bank
+ndtulllelow
+Document Date
+D T / O / 2 0 0
+(Signature)
+(mm dd yyy)
+FOR BANK USE ONLY
+Security
+Approved
+Not Approved
+Zehnfmetl
+Approval Date
+0
+Refusal Code
+(mm dd yyy)
+7 / L 5 / 2 O O
+(Signature)
+Private Customer Service
+Card Number
+Customer Code
+( 536457 5 2+
+Holder Code
+1 O 0 5 O O A
+Is the salary mandated to this Card?
+Date
+Yes
+No
+0 7 / 5 / 2 O
+Fousil
+(mm dd yyyy)
+(Signature)
+Card was blocked
+Date
+Reason Code
+(mm dd way)
+(Signature)
+Visa, Electron, Classic are registered trademarks of VISA International Service Association in
+the United States and other countries Cirrus, Maestro, MasterCard are registered trademarks
+of MasterCard Worldwide or its subsidiaries in the United States All trademarks mentioned in
+this questonnaire are the property of their respective owners
+1 5 2 9 1 4 1 6 7 7 0 8 1
+FORM
+03
+BANKING
+CARD
+APPLICATION
+Customer's
+Name
+Basic
+Card
+Supplementary
+Card
+First
+Name
+H
+A
+L
+Middle
+Initial
+Last
+Name
+Y
+A
+N
+Birth
+Date
+(mm
+dd
+yyyy)
+O
+4f
+/
+3
+/
+2
+Social
+Security
+Number
+b
+636223744
+3
+6
+2
+3
+Please
+Issue
+Banking
+Card
+for
+Me
+Yes
+No
+PLEASE
+ISSUE
+BANKING
+CARD
+FOR
+(IF
+NO)
+First
+Name
+K
+A
+Middle
+Initial
+Last
+Name
+y
+A
+L
+1
+t1
+Birth
+Date
+(mm
+dd
+yyyy)
+0
+5
+/
+O
+/
+3
+O
+Social
+Security
+Number
+334579016
+BANKING
+CARD
+TYPE
+(CHECK
+ONLY
+ONE)
+VISA
+Electron
+VISA
+Classic
+EurocardMasterCard
+Standard
+VISA
+Gold
+Cirrus
+Maestro
+EurocardMasterCard
+Gold
+NAME
+TO
+APPEAR
+ON
+THE
+BANKING
+CARD
+N
+H
+A
+L
+Y
+A
+L
+C
+1
+N
+The
+Customer/
+the
+Holder
+agrees
+that
+any
+disputes
+with
+the
+Bank
+arising
+from
+or
+in
+connection
+with
+this
+application
+shall
+be
+governed
+the
+General
+Terms
+and
+Conditions
+the
+Service
+Procedure
+for
+Private
+Customers
+and
+the
+Price
+Schedule
+of
+the
+Bank
+ndtulllelow
+Document
+Date
+D
+T
+/
+O
+/
+2
+0
+0
+(Signature)
+(mm
+dd
+yyy)
+FOR
+BANK
+USE
+ONLY
+Security
+Approved
+Not
+Approved
+Zehnfmetl
+Approval
+Date
+0
+Refusal
+Code
+(mm
+dd
+yyy)
+7
+/
+L
+5
+/
+2
+O
+O
+(Signature)
+Private
+Customer
+Service
+Card
+Number
+Customer
+Code
+(
+536457
+5
+2+
+Holder
+Code
+1
+O
+0
+5
+O
+O
+A
+Is
+the
+salary
+mandated
+to
+this
+Card?
+Date
+Yes
+No
+0
+7
+/
+5
+/
+2
+O
+Fousil
+(mm
+dd
+yyyy)
+(Signature)
+Card
+was
+blocked
+Date
+Reason
+Code
+(mm
+dd
+way)
+(Signature)
+Visa,
+Electron,
+Classic
+are
+registered
+trademarks
+of
+VISA
+International
+Service
+Association
+in
+the
+United
+States
+and
+other
+countries
+Cirrus,
+Maestro,
+MasterCard
+are
+registered
+trademarks
+of
+MasterCard
+Worldwide
+or
+its
+subsidiaries
+in
+the
+United
+States
+All
+trademarks
+mentioned
+in
+this
+questonnaire
+are
+the
+property
+of
+their
+respective
+owners
+1
+5
+2
+9
+1
+4
+1
+6
+7
+7
+0
+8
+1

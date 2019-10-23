@@ -1,0 +1,299 @@
+Differences between FineReader versions
+supplied with
+for beginners
+for home
+for office
+your scanner
+Sprint 4.0
+StartUp 5.0
+Pro 5.0
+Office 5.0
+Recognition
+Recognition
+Recognition
+Recognition
+Recognition quality
+quality better by
+quality better by
+quality better by
+1,5-2 times
+1,5-2 times
+1,5-2 times
+Recognition of superscript, subscript
++
++
+and dropped capitals
+Barcode recognition
++
+Language support
+Recognition languages
+53 languages
+12 languages
+176 languages
+176 languages
+Multilingual document recognition
++
++
+Built-in spelling check
+30 languages
+30 languages
+Pattern training for new symbols
++
++
+Creation of new languages
++
+Saving
+Saving in MS Word, MS Excel,
++
++
++
++
+Word Pro, WordPerfect, StarWriter
+Saving in HTML, PDF, RTF, DOC,
+Only RTF, TXT
+All save PDF,
++
++
+XLS, DBF, CSV, and TXT formats
+HTML
+Export via ODMA
++
+Interface
+OCR Wizard
++
++
++
+Built-in editor
++
++
+Network
+Network installation
++
+Distributed document processing over
++
+a network
+Control of licences run simultaneously
++
+Professional features
+Background recognition
++
++
+Batch work
++
++
+Multiprocessing support
++
+FormFiller
++
+Correspondence between version of 4.0
+Sprint
+StartUp
+Standard
+Professional
+series and 5.0 series
+1 - English, Dutch (Standard, Belgium), Spanish, Italian, German (Standard, New Spelling), Portuguese
+(Standard, Brazilian), Russian, Turkish, French.
+Differences
+between
+FineReader
+versions
+supplied
+with
+for
+beginners
+for
+home
+for
+office
+your
+scanner
+Sprint
+4.0
+StartUp
+5.0
+Pro
+5.0
+Office
+5.0
+Recognition
+Recognition
+Recognition
+Recognition
+Recognition
+quality
+quality
+better
+by
+quality
+better
+by
+quality
+better
+by
+1,5-2
+times
+1,5-2
+times
+1,5-2
+times
+Recognition
+of
+superscript,
+subscript
++
++
+and
+dropped
+capitals
+Barcode
+recognition
++
+Language
+support
+Recognition
+languages
+53
+languages
+12
+languages
+176
+languages
+176
+languages
+Multilingual
+document
+recognition
++
++
+Built-in
+spelling
+check
+30
+languages
+30
+languages
+Pattern
+training
+for
+new
+symbols
++
++
+Creation
+of
+new
+languages
++
+Saving
+Saving
+in
+MS
+Word,
+MS
+Excel,
++
++
++
++
+Word
+Pro,
+WordPerfect,
+StarWriter
+Saving
+in
+HTML,
+PDF,
+RTF,
+DOC,
+Only
+RTF,
+TXT
+All
+save
+PDF,
++
++
+XLS,
+DBF,
+CSV,
+and
+TXT
+formats
+HTML
+Export
+via
+ODMA
++
+Interface
+OCR
+Wizard
++
++
++
+Built-in
+editor
++
++
+Network
+Network
+installation
++
+Distributed
+document
+processing
+over
++
+a
+network
+Control
+of
+licences
+run
+simultaneously
++
+Professional
+features
+Background
+recognition
++
++
+Batch
+work
++
++
+Multiprocessing
+support
++
+FormFiller
++
+Correspondence
+between
+version
+of
+4.0
+Sprint
+StartUp
+Standard
+Professional
+series
+and
+5.0
+series
+1
+-
+English,
+Dutch
+(Standard,
+Belgium),
+Spanish,
+Italian,
+German
+(Standard,
+New
+Spelling),
+Portuguese
+(Standard,
+Brazilian),
+Russian,
+Turkish,
+French.

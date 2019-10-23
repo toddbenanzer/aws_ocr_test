@@ -1,0 +1,34 @@
+ABBYY
+John Smith
+ABBYY Headquarters
+Otradnaya str, 2b, bld. 6,
+Product Analyst
+127273, Moscow, Russia
+Tel. +7(495) 5)783 3700
+Fax
++7(495) 783 2663
+john_sm@abbyy.com
+WWW.ABBYY.com
+ABBYY
+John
+Smith
+ABBYY
+Headquarters
+Otradnaya
+str,
+2b,
+bld.
+6,
+Product
+Analyst
+127273,
+Moscow,
+Russia
+Tel.
++7(495)
+5)783 3700
+Fax
++7(495)
+783 2663
+john_sm@abbyy.com
+WWW.ABBYY.com

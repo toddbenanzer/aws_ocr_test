@@ -1,0 +1,421 @@
+ABBYY
+ABBYY Mobile OCR Engine 3.0
+Compact Code OCR for Mobile Devices
+What is the ABBYY Mobile OCR Engine SDK?
+The ABBYY Mobile OCR Engine 3.0 Software Development Kit (SDK) is a specialised toolkit
+for empowering mobile and other "compact" applications with text recognition and
+Benefits of the
+conversion capabilities. ABBYY'S specially developed "compact code OCR" is optimised to
+deliver a highly accurate conversion of image files into text using a small amount of
+ABBYY OCR Engine SDK
+memory and system resources. Platform independence ensures support for such operating
+Easy integration of high
+systems as Android, Linux, Symbian, Windows and Windows Mobile.
+performance text recognition
+capabilities
+Your Mobile Application with the Power of OCR
+Business card recognition
+ABBYY OCR technology transforms images into manageable text which can be saved, stored, edited
+or sent via web, web services, email or SMS. Applications based on the Mobile OCR Engine 3.0 will
+Platform independence -
+transform notes, business cards, newspaper clippings, menus and other texts captured via a mobile
+supporting such systems as
+imaging device into data which can easily be embedded into other applications. Examples of appli-
+Windows Mobile, Symbian,
+cations which can be enhanced with ABBYY Mobile OCR Engine include:
+AndroidTM and Linux Systems
+Camera Smartphone/PDA Applications:
+Capture Front-ends Linked to Backend
+Optimised memory
+management and efficient
+Take full advantage of cameras on mobile
+Systems and Web Applications
+devices. Photo menus, signs and posters,
+loading for high performance
+Exisiting applications can be improved or
+business cards, and other documents can be
+extended using OCR for easy capture of input
+Multilingual support
+converted into text for easier input into a
+of data to a networked backend system or
+variety of applications such as:
+Web applicaition. For example:
+Sample application and
+Phone and address books
+Mobile capture for CRM - take a picture of
+test shell
+Calendars
+a business card for input into a CRM
+Task lists
+system or sales lead database
+Sophisticated OCR
+Mobile capture for Workflow - take a
+functionality:
+All-in-one personal information
+managers (PIMs)
+picture of a document for fast input into a
+- Extremely accurate text
+Business card readers
+workflow application
+conversion
+Client/server text conversion and
+Multi-column document
+ABBYY
+ABBYY
+Mobile
+OCR
+Engine
+3.0
+Compact
+Code
+OCR
+for
+Mobile
+Devices
+What
+is
+the
+ABBYY
+Mobile
+OCR
+Engine
+SDK?
+The
+ABBYY
+Mobile
+OCR
+Engine
+3.0
+Software
+Development
+Kit
+(SDK)
+is
+a
+specialised
+toolkit
+for
+empowering
+mobile
+and
+other
+"compact"
+applications
+with
+text
+recognition
+and
+Benefits
+of
+the
+conversion
+capabilities.
+ABBYY'S
+specially
+developed
+"compact
+code
+OCR"
+is
+optimised
+to
+deliver
+a
+highly
+accurate
+conversion
+of
+image
+files
+into
+text
+using
+a
+small
+amount
+of
+ABBYY
+OCR
+Engine
+SDK
+memory
+and
+system
+resources.
+Platform
+independence
+ensures
+support
+for
+such
+operating
+Easy
+integration
+of
+high
+systems
+as
+Android,
+Linux,
+Symbian,
+Windows
+and
+Windows
+Mobile.
+performance
+text
+recognition
+capabilities
+Your
+Mobile
+Application
+with
+the
+Power
+of
+OCR
+Business
+card
+recognition
+ABBYY
+OCR
+technology
+transforms
+images
+into
+manageable
+text
+which
+can
+be
+saved,
+stored,
+edited
+or
+sent
+via
+web,
+web
+services,
+email
+or
+SMS.
+Applications
+based
+on
+the
+Mobile
+OCR
+Engine
+3.0
+will
+Platform
+independence
+-
+transform
+notes,
+business
+cards,
+newspaper
+clippings,
+menus
+and
+other
+texts
+captured
+via
+a
+mobile
+supporting
+such
+systems
+as
+imaging
+device
+into
+data
+which
+can
+easily
+be
+embedded
+into
+other
+applications.
+Examples
+of
+appli-
+Windows
+Mobile,
+Symbian,
+cations
+which
+can
+be
+enhanced
+with
+ABBYY
+Mobile
+OCR
+Engine
+include:
+AndroidTM
+and
+Linux
+Systems
+Camera
+Smartphone/PDA
+Applications:
+Capture
+Front-ends
+Linked
+to
+Backend
+Optimised
+memory
+management
+and
+efficient
+Take
+full
+advantage
+of
+cameras
+on
+mobile
+Systems
+and
+Web
+Applications
+devices.
+Photo
+menus,
+signs
+and
+posters,
+loading
+for
+high
+performance
+Exisiting
+applications
+can
+be
+improved
+or
+business
+cards,
+and
+other
+documents
+can
+be
+extended
+using
+OCR
+for
+easy
+capture
+of
+input
+Multilingual
+support
+converted
+into
+text
+for
+easier
+input
+into
+a
+of
+data
+to
+a
+networked
+backend
+system
+or
+variety
+of
+applications
+such
+as:
+Web
+applicaition.
+For
+example:
+Sample
+application
+and
+Phone
+and
+address
+books
+Mobile
+capture
+for
+CRM
+-
+take
+a
+picture
+of
+test
+shell
+Calendars
+a
+business
+card
+for
+input
+into
+a
+CRM
+Task
+lists
+system
+or
+sales
+lead
+database
+Sophisticated
+OCR
+Mobile
+capture
+for
+Workflow
+-
+take
+a
+functionality:
+All-in-one
+personal
+information
+managers
+(PIMs)
+picture
+of
+a
+document
+for
+fast
+input
+into
+a
+-
+Extremely
+accurate
+text
+Business
+card
+readers
+workflow
+application
+conversion
+Client/server
+text
+conversion
+and
+Multi-column
+document

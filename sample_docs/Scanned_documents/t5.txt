@@ -1,0 +1,232 @@
+Hot Keys
+To:
+Press:
+The File menu
+Open image from file
+CTRL+O
+Scan image
+CTRL+K
+Scan multiple images
+CTRL+SHIFT+K
+Stop scanning
+CTRL+T
+Create new batch
+CTRL+N
+Open a batch
+CTRL+P
+Save text to file
+F2
+Save image to file
+F12
+The Edit menu
+Undo the last action
+CTRL+Z
+Redo the last undone action
+CTRL+Y
+Cut the selection and put it to the clipboard
+CTRL+X
+Copy the selection to the clipboard
+CTRL+INS or CTRL+C
+Paste the clipboard contents
+CTRL+V or SHIFT+INS
+Delete the active block, the selection, the selected pages
+DEL
+Find the specified text
+CTRL+F
+Find the next occurrence of the search text
+F3
+Seach for and replace the specified text
+CTRL+H
+The View menu
+Magnify the image in the Image window
+CTRL+SHIFT+NUM+
+Zoom Out the image in the Image window
+CTRL+SHIFT+NUM-
+Zoom In to selected blocks
+CTRL+SHIFT+NUM*
+Properties
+ALT+ENTER
+The Batch menu
+Open next batch page
+ALT+Down
+Open previous batch page
+ALT+Up
+Open page with specified number
+CTRL+G
+Close the current page
+CTRL+4
+Delete the recognized text in the Text window
+CTRL+SHIFT+Del
+Hot
+Keys
+To:
+Press:
+The
+File
+menu
+Open
+image
+from
+file
+CTRL+O
+Scan
+image
+CTRL+K
+Scan
+multiple
+images
+CTRL+SHIFT+K
+Stop
+scanning
+CTRL+T
+Create
+new
+batch
+CTRL+N
+Open
+a
+batch
+CTRL+P
+Save
+text
+to
+file
+F2
+Save
+image
+to
+file
+F12
+The
+Edit
+menu
+Undo
+the
+last
+action
+CTRL+Z
+Redo
+the
+last
+undone
+action
+CTRL+Y
+Cut
+the
+selection
+and
+put
+it
+to
+the
+clipboard
+CTRL+X
+Copy
+the
+selection
+to
+the
+clipboard
+CTRL+INS
+or
+CTRL+C
+Paste
+the
+clipboard
+contents
+CTRL+V
+or
+SHIFT+INS
+Delete
+the
+active
+block,
+the
+selection,
+the
+selected
+pages
+DEL
+Find
+the
+specified
+text
+CTRL+F
+Find
+the
+next
+occurrence
+of
+the
+search
+text
+F3
+Seach
+for
+and
+replace
+the
+specified
+text
+CTRL+H
+The
+View
+menu
+Magnify
+the
+image
+in
+the
+Image
+window
+CTRL+SHIFT+NUM+
+Zoom
+Out
+the
+image
+in
+the
+Image
+window
+CTRL+SHIFT+NUM-
+Zoom
+In
+to
+selected
+blocks
+CTRL+SHIFT+NUM*
+Properties
+ALT+ENTER
+The
+Batch
+menu
+Open
+next
+batch
+page
+ALT+Down
+Open
+previous
+batch
+page
+ALT+Up
+Open
+page
+with
+specified
+number
+CTRL+G
+Close
+the
+current
+page
+CTRL+4
+Delete
+the
+recognized
+text
+in
+the
+Text
+window
+CTRL+SHIFT+Del

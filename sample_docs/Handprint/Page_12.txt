@@ -1,0 +1,263 @@
+FORM 02
+ACCOUNT APPLICATION
+Fust Name
+SALONG
+Middle initial
+Last Name
+N NAMSA A A
+Birth Date
+(mm dd yyyy)
+C 0 5 / t C 5
+Social Secunty Number
+559 i 0358
+KINDLY REQUEST TO OPEN (CHECK ONLY ONE
+Settlement Account
+Call Deposit Account
+In the Currency (Enter Currency Code)
+Card Account
+"ZETA Bank" Account
+8 4+0 4r O
+Settlement Account
+Call Deposit Account
+2
+In the Currency (Enter Currency Code)
+Card Account
+"ZETA Bank" Account
+Settlement Account
+Call Deposit Account
+3
+in the Currency (Enter Currency Cade)
+Card Account
+"ZETA Bank Account
+Settlement Account
+Call Deposit Account
+4
+In the Currency (Enter Currency Code)
+Card Account
+ZETA Bank" Account
+Document Date
+(mm dd yy)
+O T / 1 / 2 O 0
+(&agnature)
+FOR BANK USE ONLY
+Security
+Approved
+Not Approved
+Approval Date
+0 7 7 / 2 / 200 7
+Refusal Code
+(Signature)
+(mm dd yyy)
+Private Customer Service
+ACCOUNTS OPENED
+1
+O 01234 2
+5
+6
+3996
+& E 7 6 7 2 3
+2
+3
+4
+Date
+(mm dd way)
+7 / t 2 / Z 200 7
+(Signature)
+2 5 2 9 "1 4 1 II 7 7 0 8 0
+FORM
+02
+ACCOUNT
+APPLICATION
+Fust
+Name
+SALONG
+Middle
+initial
+Last
+Name
+N
+NAMSA
+A
+A
+Birth
+Date
+(mm
+dd
+yyyy)
+C
+0
+5
+/
+t
+C
+5
+Social
+Secunty
+Number
+559
+i
+0358
+KINDLY
+REQUEST
+TO
+OPEN
+(CHECK
+ONLY
+ONE
+Settlement
+Account
+Call
+Deposit
+Account
+In
+the
+Currency
+(Enter
+Currency
+Code)
+Card
+Account
+"ZETA
+Bank"
+Account
+8
+4+0
+4r
+O
+Settlement
+Account
+Call
+Deposit
+Account
+2
+In
+the
+Currency
+(Enter
+Currency
+Code)
+Card
+Account
+"ZETA
+Bank"
+Account
+Settlement
+Account
+Call
+Deposit
+Account
+3
+in
+the
+Currency
+(Enter
+Currency
+Cade)
+Card
+Account
+"ZETA
+Bank
+Account
+Settlement
+Account
+Call
+Deposit
+Account
+4
+In
+the
+Currency
+(Enter
+Currency
+Code)
+Card
+Account
+ZETA
+Bank"
+Account
+Document
+Date
+(mm
+dd
+yy)
+O
+T
+/
+1
+/
+2
+O
+0
+(&agnature)
+FOR
+BANK
+USE
+ONLY
+Security
+Approved
+Not
+Approved
+Approval
+Date
+0
+7
+7
+/
+2
+/
+200
+7
+Refusal
+Code
+(Signature)
+(mm
+dd
+yyy)
+Private
+Customer
+Service
+ACCOUNTS
+OPENED
+1
+O
+01234
+2
+5
+6
+3996
+&
+E
+7
+6
+7
+2
+3
+2
+3
+4
+Date
+(mm
+dd
+way)
+7
+/
+t
+2
+/
+Z
+200
+7
+(Signature)
+2
+5
+2
+9
+"1
+4
+1
+II
+7
+7
+0
+8
+0

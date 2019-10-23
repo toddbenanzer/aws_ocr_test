@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.tif
+*.docx
+gpt2/models
+textract/awssecrets.py
